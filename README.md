@@ -7,7 +7,7 @@ Go File View( *https://github.com/leeli73/goFileView.git* )是受kkFileView( *ht
 
 从我有想法到写出这个beta版，只有半天时间，所以可能有很多问题，目前我也即将毕业，所以很少有时间能维护goFileView，如果您对goFileView有想法或者建议欢迎在issue中提问，我看到后会尽快完善的。
 
-![](https://github.com/leeli73/goFileView/blob/master/media/mainshow.png)
+![](media/mainshow.png)
 
 上面是goFileView的预览效果(顺便给我自己打打广告,手动滑稽)
 
@@ -83,7 +83,7 @@ Windows版
         1.安装Libreoffice,下载官方msi包,傻瓜式安装即可 (https://zh-cn.libreoffice.org)
 
         2.将Libreoffice安装路径下的program文件夹加入PATH中
-![](https://github.com/leeli73/goFileView/blob/master/media/win_path.png?raw=true)
+![](media/win_path.png)
 
         3.安装ImageMagick,官方包,傻瓜式安装即可,安装7.0以上版本 (https://ghostscript.com/download/gsdnld.html)
 
