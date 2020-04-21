@@ -57,7 +57,7 @@ Go File View( *https://github.com/leeli73/goFileView.git* )是受kkFileView( *ht
 
     多文件的接受
 
-    ftp、xftp、scp等文件传输形式的兼容
+    ftp、sftp、scp等文件传输形式的兼容
 
     内置Fire Server
 
